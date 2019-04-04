@@ -39,9 +39,9 @@
     "coverage": "rc-tools run coverage"
   },
   "devDependencies": {
-    "eslint": "^2.3.0",
-    "eslint-config-airbnb": "^6.1.0",
-    "eslint-plugin-react": "^4.2.1",
+    "eslint": "2.3.0",
+    "eslint-config-airbnb": "6.1.0",
+    "eslint-plugin-react": "4.2.1",
     "expect.js": "0.3.x",
     "pre-commit": "1.x",
     "rc-tools": "5.x",
@@ -53,10 +53,10 @@
     "lint"
   ],
   "dependencies": {
-    "color": "^0.11.1",
-    "immutable": "^3.7.6",
-    "lodash": "^4.6.1",
-    "react-art": "^0.14.0",
-    "uuid": "^2.0.1"
+    "color": "0.11.1",
+    "immutable": "3.7.6",
+    "lodash": "4.6.1",
+    "react-art": "0.14.0",
+    "uuid": "2.0.1"
   }
 }
